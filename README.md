@@ -8,7 +8,6 @@
 ✅ Situação de Alunos<br>
 ✅ IDE para desenvolvimento Java (IntelliJ)<br>
 ✅ Git<br>
-✅ Conta no GitHub<br>
 </p>
 
 
